@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adimazareen
-- 👀 I’m interested in SProgramming
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning AI accelerated using Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adimazareen.9975@gmail.com
