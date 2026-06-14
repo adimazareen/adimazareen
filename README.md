@@ -33,7 +33,7 @@ Python Developer | AI Engineer | RAG & LLM Enthusiast
 ## 💻 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,flask,react,mongodb,mysql,sqlite,git,github,linux,aws,vscode,java,cpp,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=python,flask,react,mongodb,mysql,sqlite,github,aws,vscode,java,cpp,html,css,javascript" />
 </p>
 ## 🤖 AI / ML Stack
 
