@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Adima Zareen 👋
 
-<!--
-**adimazareen/adimazareen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Computer Science
+💻 Python Developer | AI Enthusiast
+🤖 Generative AI | RAG | LangChain | Flask
+📍 Aurangabad, Maharashtra, India
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python | Flask | OpenCV | LangChain | Ollama
+React Native | SQLite | MongoDB
+FAISS | HuggingFace | Git | Linux
+
+## Featured Projects
+
+🚨 Offline Emergency Alert App
+📄 LangChain PDF Q&A System
+📖 Quran Video Creator
+🎬 Image-to-Video Animation Tool
+
+## 📊 GitHub Stats
+
+![Adima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adimazareen&show_icons=true)
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/adimazareen/
+Portfolio: 
+Email: adimazareen.9975@gmail.com
